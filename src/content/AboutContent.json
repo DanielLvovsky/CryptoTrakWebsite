@@ -1,0 +1,16 @@
+{
+  "title": "Why choose CryptoTrak?",
+  "text": "CryptoTrak allows you to efficiently track your favourite cryptocurrency and display realtime data throughout the day.",
+  "section": [
+    {
+      "title": "Realtime Data",
+      "content": "CryptoTrak is a desktop widget that displays realtime prices of cryptocurrencies giving you up-to-date data on all of your chosen crypto.",
+      "icon": "notes.png"
+    },
+    {
+      "title": "Portfolio Value",
+      "content": "CryptoTrak also allows you to keep track of your portfolio value with easy customization.",
+      "icon": "notes.png"
+    }
+  ]
+}
